@@ -12,9 +12,10 @@ O assunto escolhido para este caderno temático foi **Ciência de Dados para Ini
 ## 📚 Curadoria de Fontes
 Para alimentar o NotebookLM e garantir que ele me trouxesse informações confiáveis, utilizei uma curadoria de fontes em texto e links abertos:
 
-1. **Artigo Alura:** `https://www.alura.com.br/artigos/ciencia-de-dados` (O que é a área)
-2. **Documentação Python:** `https://www.python.org/doc/essays/blurb/` (Por que usar Python)
-3. **Texto de Apoio Prático:** *O que faz um Cientista de Dados no dia a dia* (Documento de texto inserido diretamente com foco em tarefas e ferramentas como Power BI).
+1. **Documentação Python:** `https://www.python.org/doc/essays/blurb/` (Por que usar Python)
+2. **Blog EBAC (Power BI):** `https://ebaconline.com.br/blog/o-que-e-power-bi` (Entendendo a ferramenta de visualização de dados)
+3. **Blog EBAC (SQL):** `https://ebaconline.com.br/blog/o-que-e-sql` (Entendendo o banco de dados)
+4. **Texto de Apoio Prático:** *O que faz um Cientista de Dados no dia a dia* (Documento de texto inserido diretamente com foco em tarefas e ferramentas).
 
 ---
 
@@ -22,7 +23,7 @@ Para alimentar o NotebookLM e garantir que ele me trouxesse informações confi�
 
 ### 🩺 Minhas Cicatrizes (O que deu errado e como consertei):
 *   **Erro 1 (Link Quebrado/404):** Inicialmente, tentei usar um link da Coursera, mas o site havia mudado a URL e o NotebookLM leu uma página de erro digital. **Solução:** Removi a fonte quebrada.
-*   **Erro 2 (Bloqueio de Robô):** Tentei usar um link de blog da Digital House, mas a página bloqueou a leitura do robô da IA. **Solução:** Usei a tática de copiar o texto do artigo manualmente e colar direto na caixinha de "Texto Copiado" do NotebookLM. Funcionou perfeitamente!
+*   **Erro 2 (Bloqueio de Robô):** Tentei usar um link de blog da Digital House, mas a página bloqueou a leitura do robô da IA. **Solução:** Usei a tática de copiar o texto do artigo manualmente e colar direto na caixinha de "Texto Copiado" do NotebookLM. Funcionou perfeitamente e depois adicionei os links da EBAC que funcionaram muito bem!
 
 ### 💬 Prompts Testados:
 *   **Prompt 1 (Muito simples):** *"O que é ciência de dados?"* (Gerou uma resposta muito longa e teórica).
